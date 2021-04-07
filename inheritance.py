@@ -54,3 +54,5 @@ o.fly()
 h = HummingBird("Saugat")
 h.fly()
 
+p = Pigeon("Saugat")
+p.fly()
